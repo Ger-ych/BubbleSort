@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Сортировка пузырьком в Python", "Сортировка пузырьком в Python\Сортировка пузырьком в Python.pyproj", "{FA36D890-DE5D-44D8-94C3-7D92356CDAD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA36D890-DE5D-44D8-94C3-7D92356CDAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA36D890-DE5D-44D8-94C3-7D92356CDAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF715007-25F7-45DC-87C5-75940CB3718F}
+	EndGlobalSection
+EndGlobal
